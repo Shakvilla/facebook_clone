@@ -1,5 +1,12 @@
 {
   "dependencies": {
-    "react-responsive": "^9.0.2"
+    "@reduxjs/toolkit": "^1.9.2",
+    "next-redux-wrapper": "^8.1.0",
+    "react-redux": "^8.0.5",
+    "react-responsive": "^9.0.2",
+    "redux": "^4.2.1",
+    "redux-devtools-extension": "^2.13.9",
+    "redux-persist": "^6.0.0",
+    "redux-thunk": "^2.4.2"
   }
 }
